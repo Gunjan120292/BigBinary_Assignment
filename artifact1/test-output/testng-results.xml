@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="70640" started-at="2019-09-23T17:58:17Z" finished-at="2019-09-23T17:59:27Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="70640" started-at="2019-09-23T17:58:17Z" finished-at="2019-09-23T17:59:27Z">
+      <class name="BigBinaryAssignment">
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:BigBinaryAssignment@4eb7f003]" name="beforeTest" is-config="true" duration-ms="23627" started-at="2019-09-23T17:58:17Z" finished-at="2019-09-23T17:58:40Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="test()[pri:0, instance:BigBinaryAssignment@4eb7f003]" name="test" duration-ms="46241" started-at="2019-09-23T17:58:40Z" finished-at="2019-09-23T17:59:26Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- test -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:BigBinaryAssignment@4eb7f003]" name="afterTest" is-config="true" duration-ms="729" started-at="2019-09-23T17:59:26Z" finished-at="2019-09-23T17:59:27Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+      </class> <!-- BigBinaryAssignment -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
